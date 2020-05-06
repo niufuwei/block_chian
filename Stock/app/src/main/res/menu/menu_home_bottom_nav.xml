@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/selector_home_index"
+        android:title="首页"/>
+
+    <item
+        android:id="@+id/home_found"
+        android:icon="@drawable/selector_home_found"
+        android:title="otc"/>
+
+    <item
+        android:id="@+id/home_message"
+        android:icon="@drawable/selector_home_message"
+        android:title="合约"/>
+
+    <item
+        android:id="@+id/home_money"
+        android:icon="@drawable/selector_home_money"
+        android:title="资产"/>
+
+    <item
+        android:id="@+id/home_me"
+        android:icon="@drawable/selector_home_me"
+        android:title="我的"/>
+</menu>

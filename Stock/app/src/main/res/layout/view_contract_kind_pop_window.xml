@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/dp_px_15"
+    android:paddingRight="@dimen/dp_px_15"
+    android:paddingTop="@dimen/dp_px_10"
+    android:paddingBottom="@dimen/dp_px_10">
+    <ListView
+        android:id="@+id/lv_kind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="@dimen/dp_px_1"
+        android:divider="@color/black110">
+    </ListView>
+    <ImageView
+        android:id="@+id/iv_up"
+        android:layout_width="@dimen/dp_px_16"
+        android:layout_height="@dimen/dp_px_11"
+        android:background="@drawable/ic_arrow_up_contract_two"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dp_px_10"/>
+</LinearLayout>

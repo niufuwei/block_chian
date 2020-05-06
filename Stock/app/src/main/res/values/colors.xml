@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App 样式中引用的颜色 -->
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#5A8DDF</color>
+    <color name="windowBackground">#F4F4F4</color>
+    <color name="textColor">#333333</color>
+    <color name="textColorHint">#757575</color>
+
+    <!-- 按钮按压时的颜色 -->
+    <color name="colorButtonPressed">#1976D2</color>
+    <!-- 按钮禁用时的颜色 -->
+    <color name="colorButtonDisable">#BBBBBB</color>
+    <!-- 分割线的颜色 -->
+    <color name="colorLine">#ECECEC</color>
+
+    <!-- 对话框确认按钮文本颜色 -->
+    <color name="colorConfirm">#007AFF</color>
+    <!-- 对话框取消按钮文本颜色 -->
+    <color name="colorCancel">#F44336</color>
+    <color name="back">#f6f6f6</color>
+    <color name="write">#fff</color>
+    <!--文字颜色-->
+    <color name="text_default">#333</color>
+    <!--文字提示颜色-->
+    <color name="text_hint_default">#999</color>
+    <color name="color_ffcaced8">#CACED8</color>
+
+    <!--资产界面颜色-->
+    <color name="selectedTextColor">#ffffffff</color>
+    <color name="unselectedTextColor">#000000</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="color_000000">#FF000000</color>
+    <color name="color_318AFD">#FF318AFD</color>
+    <color name="color_676767">#FF676767</color>
+    <color name="color_E5E5E5">#E5E5E5</color>
+    <color name="color_656565">#656565</color>
+    <color name="color_ECECF3">#ECECF3</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_FF7858">#FF7858</color>
+    <color name="color_FAFBFD">#FAFBFD</color>
+    <color name="color_323232">#323232</color>
+    <color name="color_FF4742">#FF4742</color>
+    <color name="color_00C185">#00C185</color>
+    <color name="color_333333">#333333</color>
+</resources>

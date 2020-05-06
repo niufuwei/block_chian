@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="charge_type">
+        <item>usdt-erc20</item>
+        <item>java </item>
+        <item>php</item>
+        <item>xml</item>
+        <item>html</item>
+    </string-array>
+
+    <string-array name="market_price">
+        <item>市价</item>
+    </string-array>
+    <string-array name="market_lever">
+        <item>杠杆100x</item>
+        <item>杠杆200x</item>
+        <item>杠杆300x</item>
+    </string-array>
+</resources>
